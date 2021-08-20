@@ -1,0 +1,19 @@
+{
+  "productos": [
+    {
+      "nombre": "Carne picada",
+      "precio": 800,
+      "id": 1
+    },
+    {
+      "nombre": "Coca-Cola",
+      "precio": 150,
+      "id": 2
+    },
+    {
+      "nombre": "Arroz",
+      "precio": 60,
+      "id": 3
+    }
+  ]
+}
